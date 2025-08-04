@@ -1,4 +1,4 @@
-sentences_with_emotions = [
+[
     ("The simple pleasure of a warm cup of tea on a rainy day brought a quiet smile to her face.", [0.7, 0.1, 0, 0, 0.1, 0, 0.3, 0.2, 0.2, 0.4, 0.1, 0, 0, 0, 0, 0]),
     ("He was genuinely happy to see his old friend after so many years.", [0.9, 0, 0, 0, 0.5, 0, 0.8, 0.6, 0.7, 0.5, 0.1, 0, 0.1, 0, 0, 0]),
     ("A wave of pure bliss washed over her as she stood on the mountain peak, watching the sunrise.", [0.9, 0, 0, 0, 0.6, 0, 0.2, 0.4, 0.3, 0.5, 0.8, 0, 0.8, 0, 0, 0]),
